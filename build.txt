@@ -1,0 +1,8 @@
+version = 1.0
+displayerName = ServerSideCharacter
+homepage = https://github.com/qq1176321897/ServerSideCharacter
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, *.sln, Properties\*
+includePDB = true
